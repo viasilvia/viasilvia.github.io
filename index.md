@@ -1,4 +1,3 @@
-[About](/) | [CV](/cv/)
 ---
 layout: default
 title: Silvia Cazacu
