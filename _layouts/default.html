@@ -37,10 +37,15 @@
             <p><a href="{{ site.github.cv_url }}">📄 CV</a></p>
           {% endif %}
           
-          <!-- Contact Email in Header (JavaScript Solution for Anti-Spam) -->
+          <!-- Displaying the Email Address as a Link -->
           <p>
-            <a href="javascript:void(0);" id="contact-email">✉️ Contact</a>
-            <span id="email-note"> 📧 email</span> <!-- Added note with email emoji -->
+            <script type="text/javascript">
+              var name = "silvia.cazacu-bucica";
+              var domain = "kuleuven";
+              var tld = "be";
+              var email = name + "@" + domain + "." + tld;
+              document.write('<a href="mailto:' + email + '">' + email + '</a>');
+            </script>
           </p>
         </div>
 
@@ -60,14 +65,5 @@
       </section>
     </div>
 
-    <!-- JavaScript for constructing email dynamically -->
-    <script type="text/javascript">
-      var name = "silvia.cazacu-bucica";
-      var domain = "kuleuven";
-      var tld = "be";
-      var email = name + "@" + domain + "." + tld;
-      document.getElementById("contact-email").href = "mailto:" + email;
-      document.getElementById("contact-email").textContent = email;
-    </script>
   </body>
 </html>
