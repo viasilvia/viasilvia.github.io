@@ -42,4 +42,5 @@ Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI EA'25
 - May 2025 - Organising, presenting, discussing my PhD research under the Horizon 2020 Marie Skłodowska-Curie Innovative Training Network initiative ODECO final conference in Athens, Greece
 
 
-## 🦄 Thanks for visiting!
+ 
+ 🦄 *Thanks for visiting!*
