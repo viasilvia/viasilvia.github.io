@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 #Hello! I'm Silvia Cazacu 
 *(Silvia is spelled with two 'i's, not 'yi') and Cazacu is pronounced 'Kah-zah-koo').* 
 
