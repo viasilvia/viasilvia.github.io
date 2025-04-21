@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-# 📄 Silvia Cazacu – Curriculum Vitae  
+# 📄 Curriculum Vitae  
 **PhD researcher** | silvia(dot)cazacu-bucica(at)kuleuven(dot)be | KU Leuven, Belgium  
 [LinkedIn](https://linkedin.com/in/silvia-cazacu) | [Google Scholar](https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao)
 
@@ -81,7 +81,7 @@ permalink: /cv/
 
 ## 🎓 Grant
 
-Recipient of the Horizon 2020 Marie Skłodowska-Curie scholarship – ODECO  
+Recipient of 1/15 Early Stage Researcher grants under the Horizon 2020 Marie Skłodowska-Curie scholarship – under the project ODECO  
 _“Towards a Sustainable Open Data Ecosystem”_ (H2020-MSCA-ITN-2020, Grant #955569)
 
 ---
