@@ -11,9 +11,9 @@ title: Silvia Cazacu
 
 
 
-**PhD Researcher at KU Leuven, Belgium, within the [Spatial Applications Division Leuven](https://ees.kuleuven.be/en/sadl/)**
+**PhD Researcher at KU Leuven, Belgium at [SADL](https://ees.kuleuven.be/en/sadl/)**
 
-**Marie Curie Early Stage Researcher with [ODECO](https://odeco-research.eu/)**
+**Marie Curie Early Stage Researcher at [ODECO](https://odeco-research.eu/)**
 
 **Research fellow at [The Open Data Institute](https://theodi.org/about-the-odi/the-odi-team/odi-fellows/)**
 
@@ -37,7 +37,7 @@ Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI EA'25
 
 ## 🍳 Something's Cooking
 
-- April 2025 – Presenting *"Disentangling Power Dynamics in Participatory Data Physicalisation"* at [CHI2025](https://chi2025.acm.org/)
+- April 2025 – Presenting *"Disentangling Power Dynamics in Participatory Data Physicalisation"* at [CHI2025](https://chi2025.acm.org/) in Yokohama, Japan
 
 - May 2025 - Organising, presenting, discussing my PhD research under the Horizon 2020 Marie Skłodowska-Curie Innovative Training Network initiative ODECO final conference in Athens, Greece
 
