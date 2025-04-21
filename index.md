@@ -3,8 +3,8 @@ layout: default
 title: about me
 ---
 
-# Hello! I'm Silvia Cazacu 
-*(Silvia is spelled with two 'i's, not 'yi') and Cazacu is pronounced 'Kah-zah-koo').* 
+# Hello! I'm Silvia Cazacu *(she/her/hers)*
+*(Silvia is spelled with two 'i's, not 'y-i') and Cazacu is pronounced 'Kah-zah-koo').* 
 
 <img src="Silvia_profile_2.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 
