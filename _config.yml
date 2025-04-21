@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 logo: /logo.png
+
+nav:
+  - title: "About"
+    url: /
+  - title: "CV"
+    url: /cv/
