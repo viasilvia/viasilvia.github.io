@@ -15,9 +15,9 @@ title: Silvia Cazacu
 📚 [GoogleScholar](https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao)
 
 
-### PhD Researcher at KU Leuven, Belgium, within the [Spatial Applications Division Leuven](https://ees.kuleuven.be/en/sadl/) 
-### Marie Curie Early Stage Researcher with [ODECO](https://odeco-research.eu/)
-### Research fellow at [The Open Data Institute](https://theodi.org/about-the-odi/the-odi-team/odi-fellows/)
+**PhD Researcher at KU Leuven, Belgium, within the [Spatial Applications Division Leuven](https://ees.kuleuven.be/en/sadl/)**
+**Marie Curie Early Stage Researcher with [ODECO](https://odeco-research.eu/)**
+**Research fellow at [The Open Data Institute](https://theodi.org/about-the-odi/the-odi-team/odi-fellows/)**
 
 ## 🦋 Ongoing Reflections
 
