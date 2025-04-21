@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about me
+title: Silvia Cazacu
 ---
 
 # Hello! I'm Silvia Cazacu *(she/her/hers)*
