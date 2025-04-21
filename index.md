@@ -12,7 +12,8 @@ title: about me
 💼 [LinkedIn](https://linkedin.com/in/silvia-cazacu/)
 
 
-# PhD Researcher at KU Leuven, Belgium, within the Spatial Applications Division Leuven & Marie Curie Early Stage Researcher with ODECO
+## PhD Researcher at KU Leuven, Belgium, within the [Spatial Applications Division Leuven](https://ees.kuleuven.be/en/sadl/) 
+## Marie Curie Early Stage Researcher with [ODECO](https://odeco-research.eu/)
 
 ## Ongoing Reflections
 
