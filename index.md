@@ -3,7 +3,7 @@ layout: default
 title: Silvia Cazacu
 ---
 
-# Hello! I'm Silvia Cazacu *(she/her/hers)*
+# Hello! I'm Silvia Cazacu 
 📝*(Silvia is spelled with two 'i's, not 'y-i') and Cazacu is pronounced 'Kah-zah-koo').* 
 
 <img src="Silvia_profile_2.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
@@ -12,24 +12,29 @@ title: Silvia Cazacu
 
 💼 [LinkedIn](https://linkedin.com/in/silvia-cazacu/)
 
+📚 [GoogleScholar](https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao)
+
 
 ### PhD Researcher at KU Leuven, Belgium, within the [Spatial Applications Division Leuven](https://ees.kuleuven.be/en/sadl/) 
 ### Marie Curie Early Stage Researcher with [ODECO](https://odeco-research.eu/)
-
+### Research fellow at [The Open Data Institute](https://theodi.org/about-the-odi/the-odi-team/odi-fellows/)
 
 ## 🦋 Ongoing Reflections
 
   - Exposing the 'hands that touch the data' *(to cite data feminist scholars Cathrine D’Ignazio and Lauren F. Klein)* through data physicalisation
 
-  - (Ac)counting for power dynamics in data/model/technology design
+  - Entanglements between power and data in participatory processes
 
-  - *Infrastructuring* as ongoing data practice
+  - *Infrastructuring* as ongoing process towards (more) ethical data practices
     
 
 ## ✨ Recent Work
 
-- [Disentangling the Power Dynamics in Participatory Data Physicalisation](https://programs.sigchi.org/chi/2025/program/content/188914) Silvia Cazacu, Georgia Panagiotidou, Thérèse Steenberghen, and Andrew Vande Moere. In Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, 19 pages.
-  
+- **[Disentangling the Power Dynamics in Participatory Data Physicalisation](https://programs.sigchi.org/chi/2025/program/content/188914)** Silvia Cazacu, Georgia Panagiotidou, Thérèse Steenberghen, and Andrew Vande Moere. *ACM Conference on Human Factors in Computing Systems (CHI ’25)*. [arxiv](https://arxiv.org/abs/2503.13018)
+- **[The EnviroMapper Toolkit: An Input Physicalisation that Captures the Situated Experience of Environmental Comfort in Offices](https://programs.sigchi.org/chi/2025/program/content/194718)** Silvia Cazacu, Stien Poncelet, Emma Feijtraij, and Andrew Vande Moere.*In Extended
+Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI EA'25)*. [arxiv](https://arxiv.org/abs/2503.17257)
+
+
 
 ## 🍳 Something's Cooking
 
