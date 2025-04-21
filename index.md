@@ -4,15 +4,11 @@ title: Silvia Cazacu
 ---
 
 # Hello! I'm Silvia Cazacu 
-📝*(please spell Silvia with two 'i's, not 'y-i') & pronounce Cazacu as 'Kah-zah-koo'. TY!).* 
+📝*(spell Silvia with two 'i's, not 'y-i') & pronounce Cazacu as 'Kah-zah-koo'. TY!).* 
 
 <img src="Silvia_profile_2.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 
 📧 *email* silvia[dot]cazacu-bucica[at]kuleuven[dot]be
-
-💼 [LinkedIn](https://linkedin.com/in/silvia-cazacu/)
-
-📚 [GoogleScholar](https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao)
 
 
 
