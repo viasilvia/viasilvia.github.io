@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -15,48 +15,58 @@
   <body>
     <div class="wrapper">
       <header>
+        <!-- Site Title -->
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
+        <!-- Site Description -->
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-<div class="view">
-  {% if site.github.scholar_url %}
-    <p><a href="{{ site.github.scholar_url }}">📚 Google Scholar</a></p>
-  {% endif %}
-  {% if site.github.linkedin_url %}
-    <p><a href="{{ site.github.linkedin_url }}">💼 LinkedIn</a></p>
-  {% endif %}
-  {% if site.github.cv_url %}
-    <p><a href="{{ site.github.cv_url }}">📄 CV</a></p>
-  {% endif %}
-</div>
+        <!-- Links in the Header -->
+        <div class="view">
+          {% if site.github.scholar_url %}
+            <p><a href="{{ site.github.scholar_url }}">📚 Google Scholar</a></p>
+          {% endif %}
+          {% if site.github.linkedin_url %}
+            <p><a href="{{ site.github.linkedin_url }}">💼 LinkedIn</a></p>
+          {% endif %}
+          {% if site.github.cv_url %}
+            <p><a href="{{ site.github.cv_url }}">📄 CV</a></p>
+          {% endif %}
+          
+          <!-- Contact Email in Header (JavaScript Solution for Anti-Spam) -->
+          <p>
+            <a href="javascript:void(0);" id="contact-email">✉️ Contact</a>
+          </p>
+        </div>
 
+        <!-- GitHub Downloads and View Links -->
         {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
+          <ul class="downloads">
+            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+          </ul>
         {% endif %}
       </header>
+
+      <!-- Main Content Section -->
       <section>
+        {{ content }}
+      </section>
+    </div>
 
-      {{ content }}
-
-<section id="contact">
-  <h2>Contact</h2>
-  <p>Feel free to reach out to me via email:</p>
-  <p>
+    <!-- JavaScript for constructing email dynamically -->
     <script type="text/javascript">
       var name = "silvia.cazacu-bucica";
       var domain = "kuleuven";
       var tld = "be";
       var email = name + "@" + domain + "." + tld;
-      document.write('<a href="mailto:' + email + '">' + email + '</a>');
+      document.getElementById("contact-email").href = "mailto:" + email;
+      document.getElementById("contact-email").textContent = email;
     </script>
-  </p>
-</section>
+  </body>
+</html>
