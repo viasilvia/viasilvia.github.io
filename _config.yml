@@ -1,12 +1,11 @@
+title: Silvia Cazacu
 theme: jekyll-theme-minimal
 logo: /logo.png
-
 nav:
   - title: "About"
     url: /
   - title: "CV"
     url: /cv/
-
-    github:
+github:
   LinkedIn: https://www.linkedin.com/in/silvia-cazacu/
   GoogleScholar: https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao
