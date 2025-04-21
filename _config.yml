@@ -6,6 +6,6 @@ nav:
     url: /
   - title: "CV"
     url: /cv/
-github:
-  LinkedIn_url: https://www.linkedin.com/in/silvia-cazacu/
-  GoogleScholar_url: https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao
+github:  
+  linked_url: https://www.linkedin.com/in/silvia-cazacu/
+  gscholar_url: https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao
