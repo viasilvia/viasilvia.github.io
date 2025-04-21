@@ -4,7 +4,7 @@ title: Silvia Cazacu
 ---
 
 # Hello! I'm Silvia Cazacu 
-📝*spell Silvia with two 'i's, not 'y-i') & pronounce Cazacu as 'Kah-zah-koo'. TY!* 
+📝*spell Silvia with two 'i's, not 'y-i & pronounce Cazacu as 'Kah-zah-koo'. TY!* 
 
 <img src="Silvia_profile_2.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 
