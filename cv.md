@@ -50,7 +50,7 @@ permalink: /cv/
 
 ## 🎓 Teaching & Mentoring
 
-**Instructor / TA**, Design Thinking and Making, KU Leuven (2023–2026)  
+**Teaching assistant**, Design Thinking and Making, KU Leuven (2023–2026)  
 - Designed and led lab sessions on prototyping, 3D printing, etc.  
 - Supported course design and materials  
 
@@ -60,7 +60,7 @@ permalink: /cv/
 
 ---
 
-## 🤝 Professional Service
+## 🤝 Academic Service
 
 **Reviewer** for ACM conferences:  
 - Communities and Technologies  
@@ -86,7 +86,7 @@ _“Towards a Sustainable Open Data Ecosystem”_ (H2020-MSCA-ITN-2020, Grant #9
 
 ---
 
-## 🏆 Awards
+## 🏆 Award
 
-**Honorable Mention** – CHI’25 Conference on Human Factors in Computing Systems  
+**Honorable Mention** for "Disentangling the Power Dynamics in Participatory Data Physicalisation" CHI’25 Conference on Human Factors in Computing Systems  
 _Awarded to top 5% of total publications_
