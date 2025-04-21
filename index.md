@@ -29,7 +29,7 @@ title: About Me
     <div>
       ## **Ongoing Reflections**  
       - 🤲 **Exposing the 'hands that touch the data'** (to cite data feminist scholars Cathrine D’Ignazio and Lauren F. Klein) through data physicalisation  
-      - ⚖️ **(Ac)counting for power dynamics in data/model/technology design  
+      - ⚖️ **(Ac)counting for power dynamics in data/model/technology design**  
       - 🏗️ **Infrastructuring as ongoing data practice**
     </div>
   </div>
