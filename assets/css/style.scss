@@ -3,21 +3,3 @@
 
 @import "{{ site.theme }}";
 
-footer {
-  position: relative;
-  margin-top: 50px; /* Adjust this to give space from the content above */
-  padding: 20px 0;
-  background-color: #f8f8f8; /* Optional: to give footer a background */
-  text-align: center;
-  font-size: 14px;
-  color: #555; /* Light gray text color */
-}
-
-footer a {
-  color: #ff69b4; /* Cute pink color for the links */
-  text-decoration: none;
-}
-
-footer a:hover {
-  text-decoration: underline;
-}
