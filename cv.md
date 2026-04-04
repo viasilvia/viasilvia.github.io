@@ -5,35 +5,41 @@ permalink: /cv/
 ---
 
 # 📄 Curriculum Vitae  
-**PhD researcher** | silvia(dot)cazacu-bucica(at)kuleuven(dot)be | KU Leuven, Belgium  
+**Postdoc researcher** | silvia(dot)cazacubucica(at)telecom-paris(dot)fr | Paris, France
 [LinkedIn](https://linkedin.com/in/silvia-cazacu) | [Google Scholar](https://scholar.google.com/citations?user=RZadS3UAAAAJ&hl=en&oi=ao)
 
 ---
 
 ## 🎓 Education
 
-- **PhD in Geography**, KU Leuven, _expected 2026_  
-  Thesis: “Socio-technical Entanglements of Data: Designing for Critical Literacy in Human-Data Interaction” _(working title)_
+- **PhD in Science**, KU Leuven, _January 2026_
+  Thesis: "Towards Critical Data Infrastructures: Revealing Power Dynamics in Participatory Data Practices through Data Physicalisation Design"
 
-- **MSc in Industrial Design**, Eindhoven University of Technology, _2020_
+- **MSc in Industrial Design**, Eindhoven University of Technology, _July 2020_
 
-- **B+MArch in Architectural Design**, ‘Ion Mincu’ University, Bucharest, _2016_
+- **B+MArch in Architectural Design**, ‘Ion Mincu’ University, Bucharest, _July 2016_
 
 ---
 
 ## 📝 Publications
 
-1. Cazacu, S., Panagiotidou, G., Steenberghen, T., & Vande Moere, A. (2025). *Disentangling the Power Dynamics in Participatory Data Physicalisation*. CHI’25.  
-2. Cazacu, S., Poncelet, S., Feitraij, E., & Vande Moere, A. (2025). *The EnviroMapper Toolkit...*. CHI EA.  
-3. Cazacu, S., Mulder, I., Vande Moere, A., & Steenberghen, T. (2023). *Garden data ecosystem and reflective participatory design*. C&T.  
-4. Cazacu, S., Hansen, N. B., & Schouten, B. (2020). *Empowerment in digital civics*. OzCHI.  
-5. Schouten, B. A. M., Klerks, G., & Cazacu, S. (2024). *Collective empowerment for city-making*. International Journal of Design, 18(2), 1.
+1. Cazacu, S., Panagiotidou, G., & Vande Moere, A. (2026). *Revealing the Power Dynamics of Collaborative Sense-Making Supported by Participatory Data Physicalization*. CHI’26.
+2. Cazacu, S., Simperl, E., Thuermer, G., Massey, J., Steenberghen, T., Panagiotidou, G., & Vande Moere, A. (2025). *Infrastructuring Critical Data Literacy through Role-playing: a Retrospective Study of the Game 'Datopolis'*. PACMHCI.
+3. Cazacu, S., Panagiotidou, G., Steenberghen, T., & Vande Moere, A. (2025). *Disentangling the Power Dynamics in Participatory Data Physicalisation*. CHI’25.  
+4. Cazacu, S., Poncelet, S., Feitraij, E., & Vande Moere, A. (2025). *The EnviroMapper Toolkit...*. CHI EA.  
+5. Cazacu, S., Mulder, I., Vande Moere, A., & Steenberghen, T. (2023). *Garden data ecosystem and reflective participatory design*. C&T. 
+6. Cazacu, S., Hansen, N. B., & Schouten, B. (2020). *Empowerment in digital civics*. OzCHI.  
+7. Schouten, B. A. M., Klerks, G., & Cazacu, S. (2024). *Collective empowerment for city-making*. International Journal of Design, 18(2), 1.
 
 ---
 
 ## 🔬 Research Experience
 
-**Research Associate**, KU Leuven (2022–2026)  
+**Postdoc Researcher**, Télécom Paris, Institut Polytechnique de Paris (2026-present) 
+- working on project Psephos: Artefact Ecologies & Participatory Design of Physical Data Representations for Deliberation
+
+**Research Associate & PhD student**, KU Leuven (2022–2026)  
+- Participatory design and evaluation on data physicalization method for collaborative sense-making (Honorable Mention – CHI’26)
 - Systematic review on participatory data physicalisation (Honorable Mention – CHI’25)  
 - Led 3 deliverables in H2020 project [ODECO](https://odeco-research.eu)  
 - Cross-disciplinary collaboration in Geography & HCI  
@@ -50,7 +56,10 @@ permalink: /cv/
 
 ## 🎓 Teaching & Mentoring
 
-**Teaching assistant**, Design Thinking and Making, KU Leuven (2023–2026)  
+**Teacher**, Data Visualization for Digital Humanities, KU Leuven (Master course) (2026)
+- led two lectures on data visualisation theory; pitfalls; design; critical, participatory, physical, situated, interactive visualisation
+
+**Teaching assistant**, Design Thinking and Making, KU Leuven (Master course) (2023–2026)  
 - Designed and led lab sessions on prototyping, 3D printing, etc.  
 - Supported course design and materials  
 
@@ -62,31 +71,27 @@ permalink: /cv/
 
 ## 🤝 Academic Service
 
-**Reviewer** for ACM conferences:  
-- Communities and Technologies  
-- Creativity and Cognition  
-- Designing Interactive Systems  
+**Reviewer** for ACM conferences: CHI, DIS, TEI, C&C, C&T
 
 **Conference Committee**  
+- AC member for TEI 2025, work in progress track; AC member for DIS 2025, papers track, Critical Computing subcommittee
 - International Conference for an Inclusive Digital Society, Leuven, 2025
 
 ---
 
-## 🛠 Skills & Tools
+## 🎓 Grants and Fellowships
 
-**Technical:** 3D printing, laser cutting, MaxQDA, Overleaf, Adobe, Microsoft, Miro  
-**Research:** Qualitative research, design study, ethnography, data physicalisation
-
----
-
-## 🎓 Grant
-
-Recipient of 1/15 Early Stage Researcher grants under the Horizon 2020 Marie Skłodowska-Curie scholarship – under the project ODECO  
+Recipient of Early Stage Researcher Fellowship under the Horizon 2020 Marie Skłodowska-Curie scholarship – under the project ODECO  
 _“Towards a Sustainable Open Data Ecosystem”_ (H2020-MSCA-ITN-2020, Grant #955569)
 
+Postdoctoral Research Fellowship (Laureate) under the CONGRATS Project ‘Psephos: Artefact Ecologies & Participatory Design of Physical Data Representations for Deliberation’, French National Research Agency - PEPR eNSEMBLE program
+
 ---
 
-## 🏆 Award
+## 🏆 Awards
+
+**Honorable Mention** for "Revealing the Power Dynamics of Collaborative Sense-Making Supported by Participatory Data Physicalization" CHI’26 Conference on Human Factors in Computing Systems  
+_Awarded to top 5% of total publications_
 
 **Honorable Mention** for "Disentangling the Power Dynamics in Participatory Data Physicalisation" CHI’25 Conference on Human Factors in Computing Systems  
 _Awarded to top 5% of total publications_
