@@ -6,11 +6,11 @@
 /* This targets the container for the 2-column layout */
 @media (min-width: 64em) {
   .sidebar {
-    width: 200px; /* Decrease this (default is usually ~280px) */
+    width: 170px; /* Decrease this (default is usually ~280px) */
   }
 
   section {
-    width: calc(100% - 250px); /* Increase the remaining space for the right column */
+    width: calc(100% - 290px); /* Increase the remaining space for the right column */
   }
 }
 
