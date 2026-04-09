@@ -14,8 +14,8 @@ title: Silvia Cazacu
 **Postdoc Researcher at Télécom Paris, Institut Polytechnique de Paris [DIVA group](hhttps://diva.telecom-paristech.fr/)**
 
 **[former] PhD Researcher at KU Leuven [SADL](https://ees.kuleuven.be/en/sadl/) |**
-**[former] Marie Curie Early Stage Researcher at [ODECO](https://odeco-research.eu/) |**
-**[former] Research fellow at [The Open Data Institute](https://theodi.org/about-the-odi/the-odi-team/odi-fellows/)**
+** Marie Curie Early Stage Researcher at [ODECO](https://odeco-research.eu/) |**
+** and Research fellow at [The Open Data Institute](https://theodi.org/about-the-odi/the-odi-team/odi-fellows/)**
 
 
 
