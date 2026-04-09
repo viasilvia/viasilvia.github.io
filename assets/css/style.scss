@@ -13,3 +13,11 @@
     width: calc(100% - 250px); /* Increase the remaining space for the right column */
   }
 }
+
+/* This ensures the logo stays within the new sidebar width */
+.sidebar img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1em;
+}
